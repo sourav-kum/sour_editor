@@ -13,6 +13,6 @@ public class MainActivity extends Activity {
     }
 	
 } 
-/*don't forget to subscribe my YouTube channel for more Tutorial and mod*/
+/*on't forget to subscribe my YouTube channel for more Tutorial and mod*/
 /*
 https://youtube.com/channel/UC_lCMHEhEOFYgJL6fg1ZzQA */
